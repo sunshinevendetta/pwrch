@@ -26,7 +26,7 @@ export default function AboutThree() {
     {
       name: "中文",
       image: "/images/flags/china.webp",
-      domain: "https://pwr2tp.mx"
+      domain: "https://ch.pwr2tp.mx"
     },
     {
       name: "Deutsch",
